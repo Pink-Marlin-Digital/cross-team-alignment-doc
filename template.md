@@ -87,8 +87,27 @@ This CAD outlines the collaboration between the Mobile App Team and the Infrastr
 - <5 support tickets reopened due to unclear ownership
 
 ---
+## 🤝 7. Collaboration Health Monitoring
 
-## 🔔 7. Change Management
+**Purpose:** Track the quality of the working relationship over time to ensure that communication, trust, and clarity remain high between teams.
+**Partnership Health Index:** see (Partnership Health Index example)[./phi.md] for more info. 
+**Example Metrics:**
+
+- 🟢 Quarterly pulse-check survey with both teams (1–5 scale on satisfaction, trust, responsiveness)
+- 🟢 % of action items from sync meetings closed within agreed-upon timeline
+- 🟢 Average Slack/Email response time (non-P1)
+- 🟢 % of meetings where key decision-makers are present
+- 🟢 Number of collaboration issues escalated due to unclear expectations
+
+**Example Practices:**
+
+- Anonymous collaboration survey sent every quarter
+- 1:1 check-ins between team leads monthly
+- Maintain shared "friction log" to track and resolve recurring misunderstandings
+
+---
+
+## 🔔 8. Change Management of technical integrations
 
 **Purpose:** Describe how either team should communicate breaking changes, upgrades, or changes to interfaces/tooling.
 
@@ -99,7 +118,7 @@ This CAD outlines the collaboration between the Mobile App Team and the Infrastr
 
 ---
 
-## 📅 8. Review & Update Cadence
+## 📅 9. Review & Update Cadence (change management of this agreement)
 
 **Purpose:** Define how often this CAD will be reviewed and refreshed.
 
@@ -110,7 +129,7 @@ This CAD outlines the collaboration between the Mobile App Team and the Infrastr
 
 ---
 
-## 📁 9. Supporting Links
+## 📁 10. Supporting Links
 
 **Purpose:** Add links to docs, dashboards, runbooks, and team pages relevant to this CAD.
 
@@ -119,3 +138,7 @@ This CAD outlines the collaboration between the Mobile App Team and the Infrastr
 - [Mobile Backend Deployment Guide](https://company.com/docs/deploy)  
 - [Infra On-call Rotation](https://pagerduty.com/schedule/infra)  
 - [SRE Runbook](https://company.com/runbooks/sre)
+
+  
+
+
