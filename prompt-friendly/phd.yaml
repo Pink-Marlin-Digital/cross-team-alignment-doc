@@ -1,0 +1,69 @@
+task: Generate a Partnership Health Index (PHI) report in Markdown format
+
+description: |
+  Create a Partnership Health Index (PHI) to monitor the health of a cross-functional collaboration. 
+  Use the input data to populate key metrics, observations, and trends. 
+  Output should be a complete Markdown document, with all required sections, ready to be saved as a .md file.
+
+output_format: markdown
+
+structure:
+  - title: "📊 Partnership Health Index (PHI)"
+  - header:
+      partnership: "Mobile App Team x Infrastructure Team"
+      quarter: "Q3 2025"
+      report_owner: "Alex Rivera, Engineering Program Manager"
+      last_updated: "2025-07-27"
+  - summary:
+      status: "🟡 YELLOW"
+      trend: "↔️ Stable"
+      commentary: >
+        Weekly syncs are happening but attendance is inconsistent. 
+        Pulse surveys indicate moderate trust. One escalation flagged unclear SLAs.
+  - metrics:
+      - name: "Sync Attendance"
+        score: "80%"
+        target: "≥ 90%"
+        status: "🟡"
+        trend: "↔️"
+      - name: "Decision-Maker Presence"
+        score: "70%"
+        target: "≥ 85%"
+        status: "🟡"
+        trend: "↔️"
+      - name: "Avg. Response Time"
+        score: "20h"
+        target: "≤ 24h"
+        status: "🟢"
+        trend: "⬆️"
+      - name: "Action Item Closure"
+        score: "92%"
+        target: "≥ 90%"
+        status: "🟢"
+        trend: "⬆️"
+      - name: "Pulse Survey Avg Score"
+        score: "3.8 / 5"
+        target: "≥ 4.0"
+        status: "🟡"
+        trend: "↔️"
+      - name: "Escalations Logged"
+        score: "1"
+        target: "< 2"
+        status: "🟢"
+        trend: "↔️"
+  - notes:
+      communication_highlights: >
+        Teams are actively using Slack for decisions, though clarity is sometimes lacking.
+      pain_points: >
+        Sync participation and hosting expectations caused minor friction.
+      recommended_adjustments: >
+        Clarify ownership in async channels and reinforce decision-maker attendance.
+  - timeline:
+      - quarter: "Q3 2025"
+        status: "🟡 Yellow"
+        trend: "↔️"
+        notes: "First PHI entry. Syncs established, minor collaboration issues flagged."
+      - quarter: "Q2 2025"
+        status: "N/A"
+        trend: "N/A"
+        notes: "No formal alignment tracking in place."
