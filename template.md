@@ -15,13 +15,24 @@ This CAD outlines the collaboration between the Mobile App Team and the Infrastr
 
 ## 👥 2. Teams Involved
 
-**Purpose:** List the teams participating in this agreement and their primary functions.
+**Purpose:** List the teams participating in this agreement, their functions, and key contacts for day-to-day collaboration and escalation.
 
 **Example:**  
 - **Mobile App Team** – Responsible for feature development and backend service logic.  
+  - **Team Contact Email:** [mobile-dev@company.com](mailto:mobile-dev@company.com)  
   - **Lead:** Jessica Chen (Engineering Manager)  
+    - [jessica.chen@company.com](mailto:jessica.chen@company.com)  
+  - **Additional Contacts:**  
+    - Alex Rivera (Sr. iOS Engineer) – [alex.rivera@company.com](mailto:alex.rivera@company.com)  
+    - Priya Desai (Backend Lead) – [priya.desai@company.com](mailto:priya.desai@company.com)
+
 - **Infrastructure Team** – Manages Kubernetes, CI/CD tooling, and runtime environment.  
-  - **Lead:** Marcus Fielding (SRE Manager)
+  - **Team Contact Email:** [sre-team@company.com](mailto:sre-team@company.com)  
+  - **Lead:** Marcus Fielding (SRE Manager)  
+    - [marcus.fielding@company.com](mailto:marcus.fielding@company.com)  
+  - **Additional Contacts:**  
+    - Lena Torres (DevOps Engineer) – [lena.torres@company.com](mailto:lena.torres@company.com)  
+    - Amir Patel (K8s Specialist) – [amir.patel@company.com](mailto:amir.patel@company.com)
 
 ---
 
